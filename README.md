@@ -1,9 +1,9 @@
-#Description
+# Description
 A movie review system which takes user reviews about a movie and stores it in a database.
 
 
 
-#Usage
+# Usage
 1. Copy the code to your local machine.
 2. Make sure the Django framework is installed.
 3. Open Command prompt in project folder.
