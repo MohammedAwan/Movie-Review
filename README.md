@@ -1,6 +1,10 @@
 # Description
 A movie review system which takes user reviews about a movie and stores it in a database.
 
+# Screenshots
+<p align="center">
+  <img src="Screenshots/1.jpg" alt="Home">
+</p>
 
 
 # Usage
